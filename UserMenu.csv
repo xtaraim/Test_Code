@@ -1,0 +1,12 @@
+SL.NO  ,TEST CASE NAMES,select
+1,Checking validity of license file,1
+2,"checking whether crontab is starting godeep again after reboot,checking whether crontab is starting godeep again after reboot",
+3,FPS should not be dropped below 8,
+4,MAX_CALL_Q_SZ Queue value from setting file should never be More than MAX_CALL_Q_SZ,
+5,MAX_EMAIL_Q_SZ Queue value from setting file should never be More than MAX_EMAIL_Q_SZ,
+6,MAX_SMS_Q_SZ Queue value from setting file should never be More than MAX_SMS_Q_SZ,
+7,"GPU temperature should be below 54,CPU usage should not downtrend,GPU usage should not downtrend",
+8,"net turning off,net turning on,camera should reconnect after internet comes back",
+9,All the above test cases,
+,,
+,Instruction: write “1” if you want that test case to run else “0”,

@@ -1,0 +1,145 @@
+[
+	{
+		"id": 1,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "DSAL-01", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "rtsp://admin:dsal12345@192.168.1.101:554", 
+			"http_url": "http://192.168.1.101/axis-cgi/mjpg/video.cgi?subtype=1",
+			"floor": "CCTV", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	},
+
+	{
+		"id": 2,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "DSAL-02", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "rtsp://admin:dsal12345@192.168.1.102:554",
+			"http_url" : "http://192.168.1.102/axis-cgi/mjpg/video.cgi?subtype=1",
+			"floor": "CCTV", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	},
+
+	{
+		"id": 3,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "DSAL-03", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "rtsp://admin:dsal12345@192.168.1.103:554",
+			"http_url" : "http://192.168.1.103/axis-cgi/mjpg/video.cgi?subtype=1",
+			"floor": "CCTV", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	},
+
+	{
+		"id": 4,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "DSAL-04", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "rtsp://admin:dsal12345@192.168.1.104:554",
+			"http_url" : "http://192.168.1.104/axis-cgi/mjpg/video.cgi?subtype=1",
+			"floor": "CCTV", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	},
+
+	{
+		"id": 5,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "DSAL-05", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "rtsp://admin:dsal12345@192.168.1.105:554",
+			"http_url" : "http://192.168.1.105/axis-cgi/mjpg/video.cgi?subtype=1",
+			"floor": "CCTV", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	},
+
+	{
+		"id": 6,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "DSAL-06", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "rtsp://admin:dsal12345@192.168.1.106:554",
+			"http_url" : "http://192.168.1.106/axis-cgi/mjpg/video.cgi?subtype=1",
+			"floor": "CCTV", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	},
+
+	{
+		"id": 7,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "CarShowroom", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "http://122.166.232.26:84/nphMotionJpeg?Resolution=640x480&Quality=Standard",
+			"http_url": "http://122.166.232.26:84/nphMotionJpeg?Resolution=640x480&Quality=Standard",
+			"floor": "HTTP", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	},
+
+	{
+		"id": 8,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "FranceLaundry1", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "http://81.14.37.24:8080/mjpg/video.mjpg",
+			"http_url": "http://81.14.37.24:8080/mjpg/video.mjpg",
+			"floor": "HTTP", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	},
+
+	{
+		"id": 9,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "BLR509761", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "http://59.90.235.31:90/nphMotionJpeg?Resolution=640x480&Quality=Standard",
+			"http_url": "http://59.90.235.31:90/nphMotionJpeg?Resolution=640x480&Quality=Standard",
+			"floor": "HTTP", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	},
+
+	{
+		"id": 10,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "BLR486924", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "http://115.254.83.165:83/nphMotionJpeg?Resolution=640x480&Quality=Standard",
+			"http_url": "http://115.254.83.165:83/nphMotionJpeg?Resolution=640x480&Quality=Standard",
+			"floor": "HTTP", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	},
+
+	{
+		"id": 11,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "Toulouse459047", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "http://80.14.150.52:86/nphMotionJpeg?Resolution=640x480&Quality=Standard",
+			"http_url": "http://80.14.150.52:86/nphMotionJpeg?Resolution=640x480&Quality=Standard",
+			"floor": "HTTP", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	},
+
+	{
+		"id": 12,
+		"blob": {"camera_sensitive": 2, 
+			"camera_name": "Bangalore663599", 
+			"email_list": ["heethesh@deepsightlabs.com"],
+			"sms_list": [], "call_list": [], 
+			"rtsp_url": "http://122.166.206.24:84/nphMotionJpeg?Resolution=320x240&Quality=Standard",
+			"http_url": "http://122.166.206.24:84/nphMotionJpeg?Resolution=320x240&Quality=Standard",
+			"floor": "HTTP", "favourite": 1, "object_detect": {"fire": 0, "helmet": 0, "hoody": 0, "burkha": 0, "intrusion": 1},
+			"intrusion_start_time": "0:00", "intrusion_end_time": "23:59", "sound_alarm": 1}
+	}
+]
